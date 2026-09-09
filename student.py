@@ -25,3 +25,4 @@ elif percentage >= 70:
     print("Grade: B")
 else:
     print("Grade: C")
+    print("remarks: needs improvement")
